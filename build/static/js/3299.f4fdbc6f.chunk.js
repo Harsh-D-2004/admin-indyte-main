@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkindyte=self.webpackChunkindyte||[]).push([[3299],{3299:(e,n,t)=>{t.r(n),t.d(n,{default:()=>s});t(9950);var d=t(44414);const s=function(){return(0,d.jsx)("div",{children:"Today"})}}}]);
